@@ -1,0 +1,7 @@
+{
+  "name": "Cổng Dữ Liệu Số OCOP Địa Phương",
+  "description": "Cổng thông tin số hóa OCOP địa phương, bản đồ số GIS định vị sản phẩm, tra cứu văn bản pháp lý chính sách và trợ lý AI Gemini.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
